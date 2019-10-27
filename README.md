@@ -16,7 +16,7 @@ component, our previous component disappeared.
 In this code-along, we'll look at how `Route`s can be written inside components
 that are _themselves_ children of other `Route`s.
 
-## Master/Detail Pattern Without Routes
+## Master/Detail Patern Without Routes
 
 Have you ever used Apple's Messages app for your Mac? What about YouTube? These
 apps use some version of a "Master-Detail" interface: there is some piece of the
